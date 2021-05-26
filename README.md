@@ -1,4 +1,4 @@
 Created using React
 Run using
-### npm start
+### `npm start`
 from the parent directory
